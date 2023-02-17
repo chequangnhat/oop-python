@@ -14,6 +14,10 @@ venv\Scripts\activate
 ```
 pip install -r requirements.txt
 ```
+### run project
+```
+python main.py
+```
 
 
 ### Create a requirement file
